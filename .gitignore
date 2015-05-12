@@ -65,3 +65,6 @@ ehthumbs.db
 
 # Folder config file
 Desktop.ini
+
+# sqlite
+db.sqlite3
